@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I am a very amateur Python dev, working to learn more everyday! Let me know if you have any tips!
+
+Reach out on Discord! @dvusi
